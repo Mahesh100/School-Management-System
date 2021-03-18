@@ -21,14 +21,14 @@
      * @param grade grade of the student
      */
     
-    public Student(int id, String name,int grade){
+    public student(int id, String name,int grade){
         this.feesPaid=0;
         this.feesTotal=30000;
         this.id=id;
         this.name=name;
         this.grade=grade;
     }
-
+ 
 
  //Not going to alter student's name, student's id.
 /**
@@ -48,4 +48,27 @@
 public void updateFeesPaid(int fees){
    feesPaid+=fees;
 }
-   }
+
+
+public student() {
+}
+         public int getID(){
+            return id;
+         }
+
+         public String getName(){
+            return name;
+         }
+
+         public int getGrade(){
+            return grade;
+         }
+
+         public int feesPaid(){
+            return feesPaid;
+         }
+
+         public int getFeesTotal(){
+            return feesTotal;
+         } 
+     }
