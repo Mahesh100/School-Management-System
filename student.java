@@ -28,7 +28,7 @@
         this.name=name;
         this.grade=grade;
     }
- }
+
 
  //Not going to alter student's name, student's id.
 /**
@@ -48,3 +48,4 @@
 public void updateFeesPaid(int fees){
    feesPaid+=fees;
 }
+   }
