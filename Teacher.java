@@ -22,7 +22,11 @@ public class Teacher {
     }
 
     
-   /**
+   public Teacher(int id2, Object name2, int salary2) {
+    }
+
+
+/**
    *return the id.
    */
 
