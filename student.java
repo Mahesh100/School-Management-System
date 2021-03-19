@@ -6,6 +6,14 @@
  * of students fees paid, name, id, grade.
  */
 
+
+//package school.mamagement.system;
+/**
+ * Created by Mahesh on 18/03/2021
+ * This class is responsible for keeping the track 
+ * of students fees paid, name, id, grade.
+ */
+
  public class student{
     private int id;
     private String name;
