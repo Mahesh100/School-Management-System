@@ -1,4 +1,4 @@
-# School-Management-System
+This is a School Management system based on Java programming language. This system is created in order to keep the record of the Student's fees, student's unpaid fees, Student's paid fees.# School-Management-System
 
 Create school management System - "Students, Teachers, and then the funds"
 -Money managemant system.
